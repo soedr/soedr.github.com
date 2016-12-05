@@ -1,0 +1,387 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mo",
+				"mobilizationFee"
+			],
+			[
+				"car",
+				"carClearingTime"
+			],
+			[
+				"bike",
+				"bikeClearing"
+			],
+			[
+				"address",
+				"address_components"
+			],
+			[
+				"respons",
+				"responseBase"
+			],
+			[
+				"result",
+				"resultObject"
+			],
+			[
+				"mom",
+				"momentFormatDateNS"
+			],
+			[
+				"package",
+				"packageDescription"
+			],
+			[
+				"recever",
+				"receiverContactName"
+			],
+			[
+				"recei",
+				"receiverContactNumber"
+			],
+			[
+				"receiver_",
+				"receiver_contact_number"
+			],
+			[
+				"receiver",
+				"receiver_contact_name"
+			],
+			[
+				"get",
+				"getVehicleType"
+			],
+			[
+				"format",
+				"formatDateNS"
+			],
+			[
+				"date_",
+				"date_time_NS_format"
+			],
+			[
+				"moment",
+				"momentFormatDate"
+			],
+			[
+				"pu",
+				"pickup_time"
+			],
+			[
+				"packa",
+				"packageSize"
+			],
+			[
+				"pak",
+				"packageSize"
+			],
+			[
+				"re",
+				"receiver_contact_name"
+			],
+			[
+				"size",
+				"sizeTable"
+			],
+			[
+				"pa",
+				"packageSize"
+			],
+			[
+				"respon",
+				"responseBase"
+			],
+			[
+				"pi",
+				"pucoordinates"
+			],
+			[
+				"shi",
+				"shit_end"
+			],
+			[
+				"strin",
+				"stringify"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"error",
+				"error_message"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 4434,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"last_filter": "javascript",
+		"selected_items":
+		[
+			[
+				"javascript",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"remo\t",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/martin/data-science/blog/soedr.github.com"
+	],
+	"file_history":
+	[
+		"/Users/martin/Documents/Carry/Product/Chat/pratglad/src/generatePrice.js",
+		"/Users/martin/Documents/Carry/Product/Chat/pratglad/src/processTimeWithWit.js",
+		"/Users/martin/Documents/Carry/Product/Chat/pratglad/src/orderSummaryButtonTemp.json",
+		"/Users/martin/Documents/Carry/Product/Chat/pratglad/src/sizeButtonTemplate.json",
+		"/Users/martin/Documents/Carry/Product/Chat/pratglad/src/startFlowOptions.json",
+		"/Users/martin/Dev/fb-messenger-bot/app.py",
+		"/Users/martin/Documents/Carry/Product/Chat/pratglad/src/createOrderNS.js",
+		"/Users/martin/Documents/Carry/Product/Chat/pratglad/src/createOrderNS1.js",
+		"/Users/martin/Documents/Carry/Product/Chat/pratglad/src/processPickupAddressWithGoogleApi.js",
+		"/Users/martin/Documents/Carry/Operations/Analytics/OperationsReport-20161027_files/MathJax.js",
+		"/Users/martin/Documents/Carry/Product/Chat/pratglad/src/processPickupCoordWithGoogleApi.js",
+		"/Users/martin/Documents/Carry/Product/Chat/pratglad/src/processDropoffAddressWithGoogleApi.js",
+		"/Users/martin/Documents/Carry/Product/Chat/pratglad/src/processDropoffCoordinatesWithGoogleApi.js",
+		"/Users/martin/Documents/Carry/Operations/Routing/Planned order aug 15",
+		"/Users/martin/Documents/Carry/Operations/Research/eppco_aug15.json",
+		"/Users/martin/Documents/Carry/Operations/Clients/LuxuryCloset/3mLC.csv",
+		"/Users/martin/Analytics/R/fftdata.csv",
+		"/Users/martin/Documents/Carry/Operations/Research/weeklyOps.py",
+		"/Users/martin/Documents/Carry/Operations/Research/OrderEventsResults271.csv",
+		"/Users/martin/Downloads/order-delivery (1).json",
+		"/Users/martin/Downloads/run_results-2.json",
+		"/Users/martin/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/martin/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"createOrderNS.js",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"print",
+			"witKey",
+			"=",
+			"callback",
+			"createOrderWithNS",
+			"pickup_time",
+			"ignored"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4434,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2968,
+								2968
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1267.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ds-blog.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 187.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
