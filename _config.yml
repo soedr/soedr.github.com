@@ -28,7 +28,7 @@ production_url : http://soedr.github.io
 
 gems: ["jekyll-sitemap"]
 
-theme: minima
+bootswatch-theme: paper
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #

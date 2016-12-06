@@ -123,7 +123,7 @@
 			"file": "_config.yml",
 			"settings":
 			{
-				"buffer_size": 4434,
+				"buffer_size": 4449,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -275,15 +275,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4434,
+						"buffer_size": 4449,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2968,
-								2968
+								997,
+								997
 							]
 						],
 						"settings":
@@ -293,7 +293,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1267.0,
+						"translation.y": 81.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
