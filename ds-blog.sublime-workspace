@@ -123,8 +123,16 @@
 			"file": "_config.yml",
 			"settings":
 			{
-				"buffer_size": 4449,
+				"buffer_size": 4459,
 				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_drafts/jekyll-introduction-draft.md",
+			"settings":
+			{
+				"buffer_size": 254,
 				"line_ending": "Unix"
 			}
 		}
@@ -196,7 +204,10 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/martin/data-science/blog/soedr.github.com"
+		"/Users/martin/data-science/blog/soedr.github.com",
+		"/Users/martin/data-science/blog/soedr.github.com/_drafts",
+		"/Users/martin/data-science/blog/soedr.github.com/_posts",
+		"/Users/martin/data-science/blog/soedr.github.com/_posts/core-samples"
 	],
 	"file_history":
 	[
@@ -266,7 +277,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -275,15 +286,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4449,
+						"buffer_size": 4459,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								997,
-								997
+								1006,
+								1006
 							]
 						],
 						"settings":
@@ -294,6 +305,34 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 81.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_drafts/jekyll-introduction-draft.md",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 254,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
