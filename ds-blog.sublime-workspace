@@ -119,23 +119,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "_config.yml",
-			"settings":
-			{
-				"buffer_size": 4459,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_drafts/jekyll-introduction-draft.md",
-			"settings":
-			{
-				"buffer_size": 254,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -205,12 +188,20 @@
 	"expanded_folders":
 	[
 		"/Users/martin/data-science/blog/soedr.github.com",
-		"/Users/martin/data-science/blog/soedr.github.com/_drafts",
-		"/Users/martin/data-science/blog/soedr.github.com/_posts",
-		"/Users/martin/data-science/blog/soedr.github.com/_posts/core-samples"
+		"/Users/martin/data-science/blog/soedr.github.com/_includes/JB",
+		"/Users/martin/data-science/blog/soedr.github.com/_posts/core-samples",
+		"/Users/martin/data-science/blog/soedr.github.com/_theme_packages/bootswatch",
+		"/Users/martin/data-science/blog/soedr.github.com/_theme_packages/bootswatch/_includes",
+		"/Users/martin/data-science/blog/soedr.github.com/_theme_packages/bootswatch/_includes/themes",
+		"/Users/martin/data-science/blog/soedr.github.com/_theme_packages/bootswatch/_includes/themes/bootswatch"
 	],
 	"file_history":
 	[
+		"/Users/martin/data-science/blog/soedr.github.com/_posts/core-samples/2016-12-10-It's-Alive.md",
+		"/Users/martin/data-science/blog/soedr.github.com/_drafts/2016-12-10-It's-Alive.md",
+		"/Users/martin/data-science/blog/soedr.github.com/_drafts/jekyll-introduction-draft.md",
+		"/Users/martin/data-science/blog/soedr.github.com/index.md",
+		"/Users/martin/data-science/blog/soedr.github.com/_config.yml",
 		"/Users/martin/Documents/Carry/Product/Chat/pratglad/src/generatePrice.js",
 		"/Users/martin/Documents/Carry/Product/Chat/pratglad/src/processTimeWithWit.js",
 		"/Users/martin/Documents/Carry/Product/Chat/pratglad/src/orderSummaryButtonTemp.json",
@@ -277,67 +268,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "_config.yml",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4459,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1006,
-								1006
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/YAML/YAML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 81.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "_drafts/jekyll-introduction-draft.md",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 254,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -418,7 +350,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 187.0,
+	"side_bar_width": 295.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

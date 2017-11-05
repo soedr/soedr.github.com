@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Diluted Data
+title: Data Distillery
 tagline: a filandering foray in the wonderful world of data
 ---
 {% include JB/setup %}

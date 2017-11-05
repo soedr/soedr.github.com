@@ -1,6 +1,6 @@
 # Summary 
 
-Used [jekyllbootstrap](http://jekyllbootstrap.com) to set up this blog about various things datascience and chatbots.
+Used [jekyllbootstrap](http://jekyllbootstrap.com) to set up this blog about various things data and development.
 
 ## License
 
