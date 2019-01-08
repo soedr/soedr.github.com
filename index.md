@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Data Distillery
-tagline: a filandering foray in the wonderful world of data
+title: Experiment
+tagline: Houston, we have a problem.
 ---
 {% include JB/setup %}
 
