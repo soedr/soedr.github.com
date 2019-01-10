@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Experiment
-tagline: Houston, we have a problem.
+tagline: 
 ---
 {% include JB/setup %}
 
