@@ -8,8 +8,8 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Data Distillery
-tagline: a filandering data science foray
+title : Experiment
+tagline: Houston, we have a problem
 author :
   name : Martin Soderstrom
   email : hm.soderstrom@gmail.com
